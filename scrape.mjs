@@ -19,4 +19,5 @@ $('div.body-text').each(function () { // iga div (postituse) alt otsib img eleme
         i++;
     }
 });
+
 await delay(500);
